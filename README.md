@@ -128,6 +128,49 @@ The controller must match your motor (voltage, wattage, brushless vs brushed).
 
 ---
 
+### 6B. HANDBRAKE (OPTIONAL) — $30-100
+
+**A handbrake adds parking capability and drift potential.**
+
+**Option A: Mechanical Cable Handbrake (~$30-50)**
+- Bicycle-style brake lever mounted to frame
+- Cable runs to small mechanical caliper on rear axle
+- Simple, cheap, works great for parking/drifting
+- Search: "drift trike brake kit" or "go kart mechanical brake"
+
+| Part | Price |
+|------|-------|
+| Brake lever (bike style) | $8-15 |
+| Brake cable | $5-10 |
+| Mechanical caliper | $15-25 |
+
+**Option B: Hydraulic Handbrake (~$60-100)**
+- Hand lever with built-in master cylinder
+- More powerful, better feel, precise modulation
+- Can tee into existing rear brake line OR run to dedicated caliper
+- Search: "hydraulic e-brake" or "drift handbrake"
+
+| Part | Price |
+|------|-------|
+| Hydraulic handbrake lever | $40-60 |
+| Brake line + fittings | $15-20 |
+| T-fitting (if sharing caliper) | $5-10 |
+| Second caliper (if dedicated) | $25-40 |
+
+**Option C: Dedicated Dual-Caliper Setup (~$80-120)**
+- Separate handbrake caliper on rear axle
+- Foot brake and handbrake fully independent
+- Best for drifting (lock rears while fronts roll free)
+
+**Mounting:**
+- Lever mounts to frame tube near your hip/thigh
+- Position for easy reach while seated
+- Cable/line routes along frame to rear axle
+
+**Recommendation:** For occasional use/parking, go **mechanical** (~$35). For drifting or serious use, **hydraulic handbrake teed into rear brake** (~$65) gives better control.
+
+---
+
 ### 7. STEERING — $60-120
 
 If using a kart frame, steering is included. For DIY:
@@ -234,6 +277,7 @@ Must match your battery voltage/chemistry.
 | 48V 20Ah LiFePO4 battery | $400 |
 | Foot throttle | $30 |
 | Hydraulic disc brake | $80 |
+| Handbrake (optional) | +$35 |
 | Live axle (no diff) | $60 |
 | Wheels + tires | $100 |
 | Seat | $40 |
@@ -243,7 +287,7 @@ Must match your battery voltage/chemistry.
 | Windscreen | $30 |
 | **TOTAL** | **~$1,185** |
 
-### Mid-Range Build (~$1,600-1,800)
+### Mid-Range Build (~$1,600-1,900)
 | Component | Price |
 |-----------|-------|
 | Used kart frame | $150 |
@@ -252,6 +296,7 @@ Must match your battery voltage/chemistry.
 | 60V 20Ah LiFePO4 battery | $500 |
 | Foot throttle | $35 |
 | Front + rear disc brakes | $140 |
+| Hydraulic handbrake (optional) | $65 |
 | Differential axle | $180 |
 | Wheels + tires | $100 |
 | Seat + rear shock | $80 |
@@ -259,7 +304,7 @@ Must match your battery voltage/chemistry.
 | LED headlights | $30 |
 | Charger | $60 |
 | Windscreen | $40 |
-| **TOTAL** | **~$1,845** |
+| **TOTAL** | **~$1,910** |
 
 ### Performance Build (~$2,000-2,400)
 | Component | Price |
